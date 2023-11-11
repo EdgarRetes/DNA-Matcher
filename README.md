@@ -1,2 +1,2 @@
 # DNA-Matcher
-Analyzes given DNA sequences and identifies individuals in python.
+In Python, I created a program that analyzes provided DNA sequences to identify individuals. Analyzing the 'csv' file, the program efficiently processed DNA profiles, organizing and storing the data in a structured format. I employed data structures like dictionaries and lists. Through the effective use of these structures, the program successfully matched DNA sequences with profiles stored in the database, identifying individuals that met the specified criteria with accuracy and precision.
